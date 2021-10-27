@@ -137,9 +137,9 @@ No terminal, digite o comando: "npm run test", os testes devem ser executados.
 > Baseado no treinamento "Combinação Extremamente Poderosa Para Qualquer Programador (Factory + Injeção de Dependência)" -- https://www.youtube.com/watch?v=uyOJ2jjBtBs -- Canal: Filipe Deschamps -- Publicação: 11 de mai. De 2020.
 <p><br></p>
 
-<h2> Feito com ❤️ por  <a href="https://blog.dominio.com.br/author/ricardo//" title="Programador"><b>Ricardo Martins</b></a> <a href="https://blog.dominio.com.br/author/ricardo//" title="Programador">🚀</a><br> </h2>
+<h2>Feito com ❤️ por  <a href="https://blog.dominio.com.br/author/ricardo//" title="Programador"><b>Ricardo Martins</b></a></h2>
 
-<h2> 👋🏽 Entre em contato! 
+<h2>Entre em contato!
 
 [![Twitter Badge](https://img.shields.io/badge/-@renachev?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/renachev) [![Linkedin Badge](https://img.shields.io/badge/-Ricardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renachev/)](https://www.linkedin.com/in/renachev/) 
 [![Gmail Badge](https://img.shields.io/badge/-chev.net@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chev.net@gmail.com)](mailto:chev.net@gmail.com)
